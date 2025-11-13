@@ -1,0 +1,4 @@
+Operation,Duration(ns),Duration(ms),Vertices,Edges
+Build MST,364800,0,365,6,8
+Find Components,72100,0,072,6,5
+Find Replacement,33500,0,034,6,8
